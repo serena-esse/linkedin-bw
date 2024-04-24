@@ -1,0 +1,93 @@
+:root {
+  --darkblue: #004182;
+}
+
+.darkBlue {
+  color: var(--darkblue) !important;
+}
+
+.sizeSmall {
+  font-size: 14px !important;
+}
+
+.startP {
+  left: 7rem !important;
+}
+.xsSize{
+  font-size: 12px;
+}
+
+.custom-svg {
+  color: #ff0000 !important;
+}
+
+.box {
+  height: 36.5em;
+  background-image: url("https://i.imgur.com/aeidEH1.jpg");
+  background-size: cover;
+}
+
+.hov:hover {
+  cursor: pointer;
+  background-color: #D7E9FB !important;
+}
+
+.chat {
+  max-width: 21rem;
+  right: 10px;
+  bottom: 0;
+  z-index: 22;
+}
+
+img {
+  cursor: pointer;
+}
+
+.pallino {
+  bottom: -6% !important;
+  left: 86% !important;
+  background-color: rgb(12, 146, 30);
+  padding: 0.31rem !important;
+}
+
+.cursor:hover {
+  cursor: pointer;
+}
+
+.show {
+  display: block;
+}
+
+.hidden {
+  display: none;
+}
+
+@media screen and (min-width: 768px) {
+  .myrow {
+    max-width: 100%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .chat {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .container {
+    max-width: 100% !important;
+    margin: 0 !important;
+  }
+}
+
+/*BOTTONE PAGINA LAVORO - POST JOBS FOR FREE*/
+.class_teste_btn:hover {
+  background-color: #e8ebf0 !important;
+  color: #0d6efd !important;
+  border: 2px solid #024990 !important;
+}
+
+.bgnav {
+  background-color: #edf3f8!important;
+}

@@ -1,0 +1,6 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" role="none" aria-hidden="true" class="job-card-container__action-icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="close-small"><defs><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="close-small" aria-hidden="true" role="none" data-supported-dps="16x16" fill="#000000" fill-opacity="0.9">
+  <path d="M14 3.41L9.41 8 14 12.59 12.59 14 8 9.41 3.41 14 2 12.59 6.59 8 2 3.41 3.41 2 8 6.59 12.59 2z" fill-opacity="0.9"></path>
+</svg></defs>
+<!---->    
+    <use href="#close-small" width="16" height="16" stroke-opacity="0" stroke="#000000" fill-opacity="0" fill="#000000"></use>
+</svg>

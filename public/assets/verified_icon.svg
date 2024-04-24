@@ -1,0 +1,6 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" role="none" aria-hidden="true" class="v-align-middle" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="verified-small"><defs><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="verified-small" aria-hidden="true" role="none" data-supported-dps="16x16" fill="#000000" fill-opacity="0.9">
+  <path d="M8 15l-.86-.29C3.24 13.41 1 10.62 1 7V2.49L8 0l7 2.49V7c0 3.62-2.23 6.41-6.13 7.71L8 15zM3 3.9V7c0 3.53 2.6 5.09 4.78 5.82l.23.08.23-.08C10.01 12.23 13 10.71 13 7V3.9L8 2.11 3 3.9zM9.43 5L7.01 8.02l-1.1-1.1L4.5 8.34l2.67 2.67 4.83-6H9.43z" fill-opacity="0.9"></path>
+</svg></defs>
+<!---->    
+    <use href="#verified-small" width="16" height="16" stroke-opacity="0" stroke="#000000" fill-opacity="0" fill="#000000"></use>
+</svg>

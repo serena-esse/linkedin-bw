@@ -1,0 +1,130 @@
+.Logo_navbar_fixed {
+  margin: 0;
+  padding: 0;
+}
+.container_logo_navbar_fixed {
+  margin: 0;
+}
+.image_dropdown_navbar {
+  border-radius: 50%;
+}
+.research_icon_navbar {
+  padding: 11px;
+  pointer-events: none;
+}
+.research_input_form_navbar {
+  background-color: #edf3f8;
+}
+.icons_navbar {
+  text-align: center;
+  cursor: pointer;
+  font-size: 1rem !important;
+}
+#home_icon_nav:hover {
+  color: black !important;
+}
+.linkato:hover{
+  cursor: pointer;
+  color: rgb(7, 117, 243)!important;
+}
+.sixnavbar{
+  font-size: 12px;
+}
+#collapsible-nav-dropdown {
+  padding: 0px !important;
+}
+
+.cerca_bold_icon_navbar {
+  opacity: 0.7;
+}
+.icon_tre_punti_navbar {
+  opacity: 0.7;
+}
+/*DROPDOW PROFILE TESTE*/
+.toggle_dropdown_navbar {
+  border: 0 !important;
+  padding-top: 1px !important;
+  padding-bottom: 0 !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+/*TRE_PUNTI DROPDOWN*/ 
+
+.div_box_menu_tre_punti_dropdown {
+  display: flex !important;
+}
+
+.dropdown_icon_tre_punti_navbar {
+  border: 0 !important;
+  padding: 0 !important;
+}
+@media (min-width: 551px) {
+  .mini_box_icons_dropdown_navbar {
+    display: none !important;
+  }
+}
+
+/*MEDIA QUERY NAVBAR - ICONS*/
+@media (max-width: 550px) {
+  .icon_business_navbar {
+    display: none;
+  }
+  .icon_tre_punti_navbar {
+    display: block;
+  }
+}
+@media (min-width: 551px) {
+  .icon_tre_punti_navbar {
+    display: none;
+  }
+  .icon_business_dropdown_navbar {
+    display: none;
+  }
+  .dropdown_icon_tre_punti_navbar {
+    display: none;
+  }
+}
+@media (max-width: 469px) {
+  .icon_profile_navbar {
+    display: none;
+  }
+}
+@media (min-width: 470px) {
+  .icon_profile_dropdown_navbar {
+    display: none !important;
+  }
+}
+@media (max-width: 388px) {
+  .icon_bell_navbar {
+    display: none;
+  }
+}
+@media (min-width: 389px) {
+  .icon_bell_dropdown_navbar {
+    display: none !important;
+  }
+}
+@media (max-width: 338px) {
+  .icon_messages_navbar {
+    display: none;
+  }
+}
+@media (min-width: 339px) {
+  .icon_messages_dropdown_navbar {
+    display: none !important;
+  }
+}
+@media (max-width: 288px) {
+  .icon_jobs_navbar {
+    display: none;
+  }
+}
+@media (min-width: 289px) {
+  .icon_jobs_dropdown_navbar {
+    display: none !important;
+  }
+}
+#collapsible-nav-dropdown {
+  padding: 0px !important;
+}
